@@ -1,3 +1,5 @@
+## 由于没有设置图床，暂时需要在本目录下查看pdf版本
+
 ## 资源准备
 
 1. CentOS-7-x86_64：通过国内镜像下载可以更快 http://mirrors.163.com/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-2009.iso
@@ -16,13 +18,19 @@
 
 <img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321132755187.png" alt="image-20210321132755187" style="zoom:67%;" />
 
-<img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133053571.png" alt="image-20210321133053571" style="zoom: 67%;" />![image-20210321133123062](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321133123062.png)
+
+
+<img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133053571.png" alt="image-20210321133053571" style="zoom: 67%;" /><img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321133123062.png" alt="image-20210321133123062" style="zoom:67%;" />
 
 <img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133150137.png" alt="image-20210321133150137" style="zoom:67%;" />
 
-<img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133258678.png" alt="image-20210321133258678" style="zoom: 50%;" />
+<img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133258678.png" alt="image-20210321133258678" style="zoom: 67%;" />
 
-<img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133450507.png" alt="image-20210321133450507" style="zoom: 50%;" />
+<img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133450507.png" alt="image-20210321133450507" style="zoom: 67%;" />
+
+## 安装centOS 7
+
+
 
 <img src="C:\Users\ROG\Desktop\云计算相关\cloud_compute\lab\img\image-20210321133508893.png" alt="image-20210321133508893" style="zoom:67%;" />
 
@@ -51,6 +59,10 @@
 ![image-20210321143805682](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321143805682.png)
 
 ![image-20210321143826226](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321143826226.png)
+
+## 配置网络
+
+
 
 ![image-20210321144005644](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321144005644.png)
 
@@ -96,7 +108,13 @@
 
 ![image-20210321215256481](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321215256481.png)
 
+## ssh连接
+
+
+
 ![image-20210321220805096](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321220805096.png)
+
+## 设置别名
 
 ![image-20210321220652321](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321220652321.png)
 
@@ -106,12 +124,16 @@
 
 ![image-20210321231726062](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321231726062.png)
 
+## 安装JDK
+
 ![image-20210321232822868](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321232822868.png)
 
-![image-20210321234003257](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234003257.png)
+## 免密登录
 
-![image-20210321234120028](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234120028.png)
+<img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234003257.png" alt="image-20210321234003257" style="zoom:67%;" />
 
-![image-20210321234130552](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234130552.png)
+<img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234120028.png" alt="image-20210321234120028" style="zoom:67%;" />
 
-![image-20210321234153653](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234153653.png)
+<img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234130552.png" alt="image-20210321234130552" style="zoom:67%;" />
+
+<img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234153653.png" alt="image-20210321234153653" style="zoom:67%;" />
