@@ -137,3 +137,41 @@
 <img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234130552.png" alt="image-20210321234130552" style="zoom:67%;" />
 
 <img src="C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210321234153653.png" alt="image-20210321234153653" style="zoom:67%;" />
+
+
+
+## hadoop安装
+
+
+
+![image-20210322094158599](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322094158599.png)
+
+![image-20210322094338541](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322094338541.png)
+
+![image-20210322095752605](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322095752605.png)
+
+![image-20210322095738091](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322095738091.png)
+
+![image-20210322094437951](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322094437951.png)
+
+![image-20210322095323401](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322095323401.png)
+
+![image-20210322100046137](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322100046137.png)
+
+![image-20210322101421125](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322101421125.png)
+
+![image-20210322101533905](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322101533905.png)
+
+![image-20210322102810135](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322102810135.png)
+
+![image-20210322102826430](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322102826430.png)
+
+![image-20210322104106972](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322104106972.png)
+
+https://blog.csdn.net/qq_38712932/article/details/84197154
+
+![image-20210322122624865](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322122624865.png)
+
+![image-20210322122708057](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322122708057.png)
+
+![image-20210322123643252](C:\Users\ROG\AppData\Roaming\Typora\typora-user-images\image-20210322123643252.png)
